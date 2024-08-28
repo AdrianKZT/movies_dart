@@ -1,4 +1,4 @@
-# final_exam_list_view
+# Movies App Flutter
 
 A new Flutter project.
 
